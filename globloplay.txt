@@ -1,0 +1,16 @@
+#Globoplay Allowlist by HouseY2K
+#Beta 0.1
+
+*.globo.com
+horizon.globo.com
+horizon-track.globo.com
+
+beacons*.gvt2.com
+beacons*.gvt3.com
+
+imasdk.googleapis.com
+firebaselogging.googleapis.com
+firebaselogging-pa.googleapis.com
+app-measurement.com
+
+graph.facebook.com
